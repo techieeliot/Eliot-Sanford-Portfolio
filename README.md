@@ -12,15 +12,16 @@ The following page is my portfolio for all my projects. The site is a simple sin
 ## Technologies Used
 
 ### Languages and Frameworks
-  * HTML
-  * CSS
-  * Bootstrap
+		* HTML
+		* CSS
+		* Bootstrap
+		* jQuery (jquery.com)
    
 ### API
-  * Open API [Documentation](url)
+		* Open API [Documentation](url)
 
 ## Photos
-  * Courtesy of Unsplash (unsplash.com), the best place to find free open-source photos.
+		* Courtesy of Unsplash (unsplash.com), the best place to find free open-source photos.
 
 Please offer report any feedback to me via Pull Request and/or Twitter dm @techieEliot.
 
@@ -28,16 +29,15 @@ Thanks for reading this far,
 Eliot Sanford
 
 
-Credits:
+## Credits:
 
 ### Template 
-  * Read Only by HTML5 UP
-  * html5up.net | @ajlkn
+		* Read Only by HTML5 UP
+		* html5up.net | @ajlkn
 
 ### Icons:
 		Font Awesome (fontawesome.io)
 
 ### Other:
-		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
