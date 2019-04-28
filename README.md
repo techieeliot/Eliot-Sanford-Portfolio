@@ -24,7 +24,7 @@ The following page is my portfolio for all my projects. The site is a simple sin
 
 Please offer report any feedback to me via Pull Request and/or Twitter dm @techieEliot.
 
-Thanks for reading this far,
+Thanks for reading thus far,
 Eliot Sanford
 
 
