@@ -1,7 +1,7 @@
 # Eliot Sanford's Portfolio
 The following page is my portfolio for all my projects. The site is a simple single-page responsive design. Includes a contact form via formspree.io, pre-styled elements, and Sass sources.
 
-[Live link](#)
+[Live link](https://techieeliot.github.io/Eliot-S…)
 
 ## Screenshots
 
