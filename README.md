@@ -16,8 +16,8 @@ The following page is my portfolio for all my projects. The site is a simple sin
 		* Bootstrap
 		* jQuery (jquery.com)
    
-### API
-		* Open API [Documentation](url)
+### API (none used)
+		* API [Documentation](url)
 
 ## Photos
 		* Courtesy of Unsplash (unsplash.com), the best place to find free open-source photos.
