@@ -7,8 +7,7 @@ The following page is my portfolio for all my projects. The site is a simple sin
 
 ### _Landing Page_
 ![landingPage](images/landingPageScreenshot.png)
-### _Search Results_
-![SearchReults](Images/other.jpg)
+
 ## Technologies Used
 
 ### Languages and Frameworks
