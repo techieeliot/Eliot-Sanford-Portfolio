@@ -6,7 +6,7 @@ The following page is my portfolio for all my projects. The site is a simple sin
 ## Screenshots
 
 ### _Landing Page_
-![landingPage](Images/Screen Shot 2019-04-27 at 8.27.20 PM.png)
+![landingPage](images/landingPageScreenshot.png)
 ### _Search Results_
 ![SearchReults](Images/other.jpg)
 ## Technologies Used
