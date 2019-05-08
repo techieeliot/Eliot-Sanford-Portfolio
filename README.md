@@ -1,14 +1,13 @@
 # Eliot Sanford's Portfolio
 The following page is my portfolio for all my projects. The site is a simple single-page responsive design. Includes a contact form via formspree.io, pre-styled elements, and Sass sources.
 
-[Live link](#)
+[Live link](https://techieeliot.github.io/Eliot-Sanford-Portfolio/)
 
 ## Screenshots
 
 ### _Landing Page_
-![landingPage](Images/#.jpg)
-### _Search Results_
-![SearchReults](Images/other.jpg)
+![landingPage](images/landingPageScreenshot.png)
+
 ## Technologies Used
 
 ### Languages and Frameworks
@@ -17,15 +16,15 @@ The following page is my portfolio for all my projects. The site is a simple sin
 		* Bootstrap
 		* jQuery (jquery.com)
    
-### API
-		* Open API [Documentation](url)
+### API (none used)
+		* API [Documentation](url)
 
 ## Photos
 		* Courtesy of Unsplash (unsplash.com), the best place to find free open-source photos.
 
 Please offer report any feedback to me via Pull Request and/or Twitter dm @techieEliot.
 
-Thanks for reading this far,
+Thanks for reading thus far,
 Eliot Sanford
 
 
