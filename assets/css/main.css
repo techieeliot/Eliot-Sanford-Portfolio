@@ -235,6 +235,24 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.bio-section {
+		margin-top: 10px;
+	}
+
+/* Button */
+	.btn-twitter {
+		border: 1px solid rgb(29, 161, 242);
+		background: rgb(29, 161, 242);
+		color: white;
+		padding: 10px;
+		border-radius: 3px;
+	}	
+
+	:hover.btn-twitter {
+		background: white;
+		border-bottom-color: rgb(29, 161, 242);
+	}
+
 /* Row */
 
 	.row {
@@ -721,7 +739,11 @@ input, select, textarea {
 							padding-top: 4em;
 						}
 
+			header.major {
+				height: 30vh;
+			}				
 		}
+
 
 		@media screen and (max-width: 1280px) {
 
@@ -1456,6 +1478,10 @@ input, select, textarea {
 							padding-top: 2.5em;
 						}
 
+			header.major {
+				height: 15vh;
+			}
+
 		}
 
 		@media screen and (max-width: 480px) {
@@ -2178,7 +2204,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			height: 20em;
+			height: 65vh;
 			border-radius: 0;
 		}
 
@@ -2935,7 +2961,7 @@ input, select, textarea {
 				}
 
 			.image.main {
-				height: 20em;
+				height: 60vh;
 			}
 
 		/* Header */
