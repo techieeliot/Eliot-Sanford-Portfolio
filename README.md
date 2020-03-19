@@ -6,7 +6,13 @@ The following page is my portfolio for all my projects. The site is a simple sin
 ## Screenshots
 
 ### _Landing Page_
+*Desktop Landing*
+
 ![landingPage](images/landingPageScreenshot.png)
+
+*Mobile Landing*
+
+![landingPageMobile](images/landingPageScreenshotMobile.png)
 
 ## Technologies Used
 
