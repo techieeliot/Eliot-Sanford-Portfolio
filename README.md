@@ -8,11 +8,11 @@ The following page is my portfolio for all my projects. The site is a simple sin
 ### _Landing Page_
 *Desktop Landing*
 
-![landingPage](images/landingPageScreenshot.png)
+![landingPage](images/desktop.png)
 
 *Mobile Landing*
 
-![landingPageMobile](images/landingPageScreenshotMobile.png)
+![landingPageMobile](images/mobile.png)
 
 ## Technologies Used
 
