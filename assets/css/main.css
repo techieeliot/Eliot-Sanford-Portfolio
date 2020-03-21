@@ -1796,7 +1796,7 @@ input, select, textarea {
 
 	header.major h2 {
 		color: #00acee;
-		font-size: 3.5em;
+		font-size: 4.5em;
 	}
 
 		header.major h2 + p {
@@ -2387,7 +2387,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #00acee;
+				background: #84BCDA;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -3108,7 +3108,7 @@ input, select, textarea {
 			}
 
 			h3 {
-				font-size: 1.5em;
+				font-size: 1.15em;
 			}
 
 			h4 {
@@ -3140,7 +3140,7 @@ input, select, textarea {
 			}
 
 				header.major h2 + p {
-					font-size: 1.5em;
+					font-size: 1.15em;
 				}
 
 		/* Features */
