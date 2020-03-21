@@ -1950,8 +1950,8 @@ input, select, textarea {
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #55ACEE;
-			border-color: #55ACEE;
+			background: #00ACEE;
+			border-color: #00ACEE;
 			color: #ffffff;
 			content: '\f00c';
 		}
@@ -2503,7 +2503,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #55ACEE;
+		background-color: #00ACEE;
 		border-radius: 5px;
 		border: 0;
 		color: #ffffff !important;
