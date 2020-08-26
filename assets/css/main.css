@@ -2399,6 +2399,10 @@ input, select, textarea {
 				top: 0;
 				width: 2.5em;
 			}
+			ul.feature-icons .gatsby-logo {
+				background-image: url(images/Gatsby_Logo_White.svg);
+				background-size: 100%;
+			}
 
 /* Icons */
 
@@ -2420,6 +2424,7 @@ input, select, textarea {
 			ul.icons li .icon:before {
 				font-size: 1.25em;
 			}
+
 
 /* Table */
 
