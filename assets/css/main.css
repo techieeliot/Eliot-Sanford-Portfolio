@@ -2367,6 +2367,11 @@ input, select, textarea {
 		padding-left: 0;
 	}
 
+	ul.resume {
+		display: flex;
+		justify-content: center;
+	}
+
 		ul.feature-icons li {
 			text-decoration: none;
 			display: inline-block;
@@ -2662,6 +2667,19 @@ input, select, textarea {
 		}
 
 			.features article .image img {
+				display: block;
+				width: 100%;
+			}
+			
+			.features article .video {
+				display: inline-block;
+				padding-right: 1.5em;
+				vertical-align: middle;
+				margin: 0 auto;
+				width: 48%;
+				margin-bottom: 0.5em;
+			}
+			.features article .video img {
 				display: block;
 				width: 100%;
 			}
