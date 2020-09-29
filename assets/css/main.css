@@ -3270,6 +3270,17 @@ input, select, textarea {
 			body, input, select, textarea, .button {
 				font-size: 12pt;
 			}
+			header.major {
+				margin-bottom: 2em;
+			}
+			header.major h2 {
+				font-size: 2em;
+				margin-bottom: 0.25em;
+			}
+
+				header.major h2 + p {
+					font-size: 1em;
+				}
 
 		/* List */
 
