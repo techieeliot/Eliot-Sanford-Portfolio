@@ -1469,6 +1469,7 @@ input, select, textarea {
 
 		}
 
+
 		@media screen and (max-width: 480px) {
 
 			.row {
@@ -2367,9 +2368,16 @@ input, select, textarea {
 		padding-left: 0;
 	}
 
-	ul.resume {
+	ul.view-resumé {
 		display: flex;
 		justify-content: center;
+	}
+	#resumé-box {
+		margin: 0 auto;
+		display: flex;
+		box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+		transition: all 200ms ease-out;
+		margin-bottom: 2rem;
 	}
 
 		ul.feature-icons li {
@@ -3216,6 +3224,10 @@ input, select, textarea {
 
 			#main > section > .container {
 				padding: 2em 0 0 0;
+			}
+
+			.hide-resumé {
+				display: none;
 			}
 
 		/* Footer */
