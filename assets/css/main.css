@@ -2368,11 +2368,11 @@ input, select, textarea {
 		padding-left: 0;
 	}
 
-	ul.view-resumé {
+	ul.view-résumé {
 		display: flex;
 		justify-content: center;
 	}
-	#resumé-box {
+	#résumé-box {
 		margin: 0 auto;
 		display: flex;
 		box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
@@ -3226,7 +3226,7 @@ input, select, textarea {
 				padding: 2em 0 0 0;
 			}
 
-			.hide-resumé {
+			.hide-résumé {
 				display: none;
 			}
 
