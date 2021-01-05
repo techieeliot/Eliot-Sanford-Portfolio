@@ -11,7 +11,9 @@
 		$header = $('#header'),
 		$titleBar = null,
 		$nav = $('#nav'),
-		$wrapper = $('#wrapper');
+		$wrapper = $('#wrapper'),
+		$copyrightYear = $('.copyright-year'),
+		copyrightDate = new Date().getFullYear()
 
 	// Breakpoints.
 		breakpoints({
@@ -129,9 +131,9 @@
 				'</div>'
 			)
 				.appendTo($body);
-
-		// Panel.
-			$header
+				
+				// Panel.
+				$header
 				.panel({
 					delay: 500,
 					hideOnClick: true,
@@ -142,18 +144,22 @@
 					target: $body,
 					visibleClass: 'header-visible'
 				});
-
-	// Scrolly.
-		$('.scrolly').scrolly({
-			speed: 1000,
-			offset: function() {
-
-				if (breakpoints.active('<=medium'))
-					return $titleBar.height();
-
-				return 0;
-
-			}
-		});
+				
+				// Scrolly.
+				$('.scrolly').scrolly({
+					speed: 1000,
+					offset: function() {
+						
+						if (breakpoints.active('<=medium'))
+						return $titleBar.height();
+						
+						return 0;
+						
+					}
+				});
+				
+			// Copyright.
+				$copyrightYear.text(copyrightDate)
+				
 
 })(jQuery);
