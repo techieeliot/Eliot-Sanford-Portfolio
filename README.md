@@ -2,7 +2,7 @@
 
 The following page is my portfolio for all my projects and lists my resume. The site is a simple single-page responsive design. Includes a contact form via formspree.io, pre-styled elements, and Sass sources. Please contact me. I'm for hire.
 
-[Live link](https://techieeliot.github.io/Eliot-Sanford-Portfolio/)
+[Live link](https://techieeliot.com)
 
 ## Screenshots
 
