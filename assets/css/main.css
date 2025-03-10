@@ -3460,6 +3460,11 @@ input[type='button']:disabled,
   ul.feature-icons li {
     display: block;
     width: 100%;
+    padding: 0.35em 0 0 3em;
+  }
+
+  ul.feature-icons li:has(a>button), ul.feature-icons li:has(a[role='button']) {
+    padding: 0;
   }
 
   /* Button */
